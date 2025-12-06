@@ -1,48 +1,50 @@
-# Object-Oriented Programming (OOP) Concepts — Code Examples
+# Object-Oriented Programming (OOP) Concepts — Complete Example Repository
 
-This repository contains clean, minimal, and well-structured examples of core **Object-Oriented Programming (OOP)** concepts.  
-It is designed to help students, beginners, and interview candidates understand how real-world OOP principles translate into code.
+This repository contains clean and practical implementations of essential **Object-Oriented Programming (OOP)** concepts.  
+It is designed as a reference for learners, interview preparation, and anyone wanting a strong hands-on understanding of OOP.
 
 ---
 
-## Features
-
-This repo covers the following OOP pillars and advanced topics:
+## Key OOP Concepts Implemented
 
 ### **1. Encapsulation**
-- Hiding internal data using private/protected fields  
-- Accessing data safely through getters and setters  
-- Ensuring consistent object state
+- Private/protected data members
+- Getter & setter methods
+- Controlled access to object state
 
 ### **2. Abstraction**
-- Abstract classes and methods  
-- Interfaces and contracts  
-- Exposing only essential information
+- Abstract base classes
+- Interfaces (pure virtual functions)
+- Hiding implementation details
 
 ### **3. Inheritance**
-- Reusing behavior using parent–child class relationships  
-- Method overriding  
-- Multi-level inheritance examples
+- Single and multi-level inheritance
+- Reusing behavior through parent-child relationships
+- Constructor chaining & use of `super` / `Base`
 
 ### **4. Polymorphism**
-- Compile-time (method overloading)  
-- Runtime (method overriding)  
-- Dynamic dispatch examples
+- Function overloading (compile-time)
+- Function overriding using **virtual functions** (runtime)
+- Dynamic dispatch
 
 ---
 
-## Additional OOP Concepts Included
+## Additional Features Covered
 
-- Constructors & constructor overloading  
-- Static vs instance members  
-- Composition vs inheritance  
-- Access modifiers (private, protected, public)  
-- Abstract classes vs interfaces  
-- Final classes/methods  
-- Super keyword usage  
-- Object lifecycle & destructors (if supported)
+### **✔ Static Keyword**
+- Static data members shared across all objects  
+- Static member functions  
+- Use cases for global counters, object tracking, utility functions
+
+### **✔ Virtual Functions**
+- Base class pointer referencing derived objects  
+- Behavior customization using overridden methods  
+- Runtime polymorphism explained with clear examples
+
+### **✔ Vector Usage (C++ STL)**
+- Demonstrating object storage using `std::vector`  
+- Dynamic resizing & memory management  
+- Storing and iterating over objects using vectors  
+- Passing vectors to functions & returning vectors
 
 ---
-
-## 📂 Project Structure
-
