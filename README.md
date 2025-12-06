@@ -31,17 +31,17 @@ It is designed as a reference for learners, interview preparation, and anyone wa
 
 ## Additional Features Covered
 
-### **✔ Static Keyword**
+### ** Static Keyword**
 - Static data members shared across all objects  
 - Static member functions  
 - Use cases for global counters, object tracking, utility functions
 
-### **✔ Virtual Functions**
+### ** Virtual Functions**
 - Base class pointer referencing derived objects  
 - Behavior customization using overridden methods  
 - Runtime polymorphism explained with clear examples
 
-### **✔ Vector Usage (C++ STL)**
+### ** Vector Usage (C++ STL)**
 - Demonstrating object storage using `std::vector`  
 - Dynamic resizing & memory management  
 - Storing and iterating over objects using vectors  
